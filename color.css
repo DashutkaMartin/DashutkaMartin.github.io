@@ -16,7 +16,7 @@ background-color: azure;
 	margin: -130px 0px 0px 530px; 
 	border: solid var(--b) transparent;
 	padding: 1em;
-	max-width: 23em;
+	max-width: 20em;
 	font: 1.25em ubuntu, sans-serif;
 	
 	&::before {
