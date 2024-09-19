@@ -10,6 +10,6 @@ background-color: azure;
 .text {
    background-color: orange;
    font-size: 30px;
-   border: 1px solid black;
-   padding: 111px 30px;
+   border: 10px solid black;
+   padding: 30px;
 }
