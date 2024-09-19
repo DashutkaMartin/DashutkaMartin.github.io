@@ -15,10 +15,10 @@
 	--c: 3em; /* corner size */
 	--r: 2em; /* corner rounding */
 	position: relative;
-	margin: -13px 0px 0px 530px; 
+	margin: -130px 0px 0px 530px; 
 	border: solid var(--b) transparent;
 	padding: 1em;
-	max-width: 15em;
+	max-width: 150em;
 	font: 1.25em ubuntu, sans-serif;
 	
 	&::before {
