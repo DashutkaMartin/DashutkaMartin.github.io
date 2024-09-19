@@ -11,13 +11,14 @@ background-color: azure;
    background-color: orange;
    font-size: 30px;
    border: 7px solid black;
-   width: 100px;
+   width: 400px;
    padding: 10px;
    margin: -130px 0px 0px 530px; 
 }
 .text2 {
    background-color: orange;
    font-size: 30px;
+   width: 400px;
    border: 7px solid black ;
    padding: 10px;
    margin: -180px 0px 0px 530px; 
