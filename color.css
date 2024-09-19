@@ -19,7 +19,7 @@
 	border: solid var(--b) transparent;
 	padding: 1em;
 	max-width: 15em;
-	font: 1.25em ubuntu, sans-serif,orange ;
+	font: 1.25em ubuntu, serif, orange ;
 	
 	&::before {
 		position: absolute;
