@@ -1,5 +1,7 @@
 .background {
    background: linear-gradient(to top, #fc8e1f, #000000);
+   width: 320px;
+    height:250px;
 }
 
 .round {
