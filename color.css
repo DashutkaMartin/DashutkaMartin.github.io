@@ -7,3 +7,7 @@ background-color: azure;
    width: 320px;
     height:250px;
   }
+.text {
+   background-color: orange;
+   font-size: 30px;
+}
