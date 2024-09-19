@@ -1,7 +1,7 @@
-.color {
-background-color: azure;
-   color: #74b357
+.background {
+   background: linear-gradient(to top, #ff9328, #000000);
 }
+
 .round {
    border-radius: 50%;
    width: 320px;
