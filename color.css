@@ -2,3 +2,6 @@
 background-color: azure;
    color: #74b357
 }
+.round {
+   border-radius: 50%;
+  }
