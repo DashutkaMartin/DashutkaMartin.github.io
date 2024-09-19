@@ -6,7 +6,7 @@
 
 .round {
    border-radius: 50%;
-   width: 320px;
+   width: 1000px;
     height:250px;
   }
 
@@ -18,7 +18,7 @@
 	margin: -130px 0px 0px 530px; 
 	border: solid var(--b) transparent;
 	padding: 1em;
-	max-width: 150em;
+	max-width: 15em;
 	font: 1.25em ubuntu, sans-serif;
 	
 	&::before {
