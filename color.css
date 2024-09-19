@@ -13,7 +13,7 @@ background-color: azure;
    border: 7px solid black;
    width: 400px;
    padding: 10px;
-   margin: -130px 0px 0px 530px; 
+   
 }
 .text2 {
    background-color: orange;
@@ -29,7 +29,7 @@ background-color: azure;
 	--c: 3em; /* corner size */
 	--r: 2em; /* corner rounding */
 	position: relative;
-	margin: 1em auto;
+	margin: -130px 0px 0px 530px; 
 	border: solid var(--b) transparent;
 	padding: 1em;
 	max-width: 23em;
