@@ -4,4 +4,6 @@ background-color: azure;
 }
 .round {
    border-radius: 30%;
+   width: 200px;
+    height: 200px;
   }
