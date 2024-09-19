@@ -3,15 +3,11 @@ background-color: azure;
    color: #74b357
 }
 .round {
-   display: flex;
-	justify-content: space-around;
-	align-content: center;
-	align-items: center;
-	flex-wrap: wrap;
-	min-height: 100vh;
-	background-image: linear-gradient(#111, #050505);
+   border-radius: 50%;
+   width: 320px;
+    height:250px;
   }
-.text {
+.text1 {
    background-color: orange;
    font-size: 30px;
    border: 7px solid black;
