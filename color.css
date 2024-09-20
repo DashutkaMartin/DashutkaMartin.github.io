@@ -6,7 +6,7 @@
 p {
 	color: whitesmoke;
 	font-size: 20px;
-	font-family: Georgia, 'Times New Roman', Times, serif;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   }
 
 .round {
@@ -20,7 +20,7 @@ p {
 	--c: 3em; /* corner size */
 	--r: 2em; /* corner rounding */
 	position: relative;
-	margin: 100px 0px 0px 120px; 
+	margin: 100px 0px 0px 125px; 
 	border: solid var(--b) transparent;
 	padding: 1em;
 	max-width: 15em;
