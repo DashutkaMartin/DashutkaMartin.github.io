@@ -24,7 +24,9 @@ p {
 	border: solid var(--b) transparent;
 	padding: 1em;
 	max-width: 15em;
-	
+	color: whitesmoke;
+	font-size: 20px;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 	
 	&::before {
 		position: absolute;
@@ -45,6 +47,9 @@ p {
 }
 
 .text2 {
+	color: whitesmoke;
+	font-size: 20px;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 	--b: .2em; /* border width */
 	--c: 3em; /* corner size */
 	--r: 2em; /* corner rounding */
