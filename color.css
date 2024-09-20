@@ -17,8 +17,8 @@ p {
 
 .text1 {
 	--b: .5em; /* border width */
-	--c: 2em; /* corner size */
-	--r: 5em; /* corner rounding */
+	--c: 1em; /* corner size */
+	--r: 2em; /* corner rounding */
 	position: relative;
 	margin: -130px 0px 0px 730px; 
 	border: solid var(--b) transparent;
