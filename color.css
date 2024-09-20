@@ -17,13 +17,13 @@ p {
 
 .text1 {
 	--b: .5em; /* border width */
-	--c: 3em; /* corner size */
-	--r: 2em; /* corner rounding */
+	--c: 2em; /* corner size */
+	--r: 5em; /* corner rounding */
 	position: relative;
 	margin: -130px 0px 0px 730px; 
 	border: solid var(--b) transparent;
 	padding: 1em;
-	max-width: 1em;
+	max-width: 15em;
 	
 	
 	&::before {
