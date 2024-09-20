@@ -3,7 +3,11 @@
    width: 1500px;
     height: 700px;
 }
-
+p {
+	color: whitesmoke;
+	font-size: 24px;
+	font-family: Brody D;
+  }
 .round {
    border-radius: 50%;
    width: 320px;
