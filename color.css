@@ -8,6 +8,7 @@ p {
 	font-size: 24px;
 	font-family: Brody D;
   }
+
 .round {
    border-radius: 50%;
    width: 320px;
@@ -19,7 +20,7 @@ p {
 	--c: 3em; /* corner size */
 	--r: 2em; /* corner rounding */
 	position: relative;
-	margin: -130px 0px 0px 530px; 
+	margin: -130px 0px 0px 730px; 
 	border: solid var(--b) transparent;
 	padding: 1em;
 	max-width: 15em;
